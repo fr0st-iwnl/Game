@@ -1,4 +1,4 @@
-# <a href="https://fr0st-iwnl.github.io/Game/" target="_blank">Simon Says Color Game!</a>
+# <a href="https://fr0st-iwnl.github.io/Game/" target="_blank">Simon Says Color Game! (ReMade)</a>
 
 * <a href="https://fr0st-iwnl.github.io/Game/" target="_blank">Click here if you want to play!</a>
 
