@@ -1,6 +1,6 @@
 # <a href="https://fr0st-iwnl.github.io/Game/" target="_blank">Click here if you want to play!</a>
 
-# <a href="https://fr0st-iwnl.github.io/Game/" target="_blank">Simon Says Color Game!</a>
+* <a href="https://fr0st-iwnl.github.io/Game/" target="_blank">Simon Says Color Game!</a>
 
 [![Website Status](https://img.shields.io/badge/Website%20Status-Online-green)](https://fr0st-iwnl.github.io/Game/)
 
